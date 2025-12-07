@@ -3,4 +3,4 @@ def join(*args):
     for i in args:
         res=res+i
     return res
-print(join("hi"," ","jas"))
+print(join("hi"," ","jack"))
